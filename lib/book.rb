@@ -17,4 +17,4 @@ class Book
     GENRES << genre
     #or GENRES = @genre
   end
-  
+end 
